@@ -1,8 +1,8 @@
 .idea/
 bert_state_dict/
-corpus/
+corpus/*
 !corpus/*.ipynb
-dataset/
+dataset/*
 !dataset/*.py
 output_wiki_bert/
 sentiment_state_dict/
